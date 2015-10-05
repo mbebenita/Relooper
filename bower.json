@@ -1,0 +1,13 @@
+{
+  "name": "Relooper-glue",
+  "version": "1.0.0",
+  "main": [
+    "./build/relooper.js"
+  ],
+  "ignore": [],
+  "keywords": [
+    "Mozilla",
+    "Emscripten",
+    "Relooper"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Relooper-glue",
+  "version": "1.0.0",
+  "description": "A JavaScript glue for the Emscripten Relooper",
+  "main": "./build/relooper.js",
+  "keywords": [
+    "Mozilla",
+    "Emscripten",
+    "Relooper"
+  ],
+  "license": "MIT"
+}
